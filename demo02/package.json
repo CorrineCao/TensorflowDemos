@@ -1,0 +1,15 @@
+{
+  "name": "demo02",
+  "version": "1.0.0",
+  "description": "第一个yarn程序",
+  "main": "index.js",
+  "author": "corrine",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.2",
+    "parcel-bundler": "^1.9.6"
+  }
+}
